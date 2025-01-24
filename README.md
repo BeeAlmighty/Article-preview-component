@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Vercel](https://your-solution-url.com)
+- Solution URL: [Vercel](https://article-preview-component-pink.vercel.app/)
 - Live Site URL: [Live server](http://127.0.0.1:5500/index.html)
 
 ## My process
